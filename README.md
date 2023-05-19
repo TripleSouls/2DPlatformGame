@@ -6,6 +6,8 @@ Detailed information will be published soon...
 
 ______
 
+## 2D Platform Game Project
+In this game project, our aim was to design the mechanics of a simple 2D platform game. Unity game engine was used in this project, which was designed to be easily expandable.
 
 ### Slime System
 Slimes are dynamic. If there is an obstacle at ground level where they are placed, they turn back and continue their path. If there is a gap ahead on the path they are walking on, they also turn back and continue their way.
