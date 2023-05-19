@@ -2,7 +2,7 @@
 
 ______
 
-Detailed information will be prepared soon...
+Detailed information will be published soon...
 
 ______
 
