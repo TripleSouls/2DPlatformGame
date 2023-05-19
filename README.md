@@ -46,7 +46,7 @@ The character's health is set to 6. When the health reaches 0 due to damage from
 
 ![Health System](/Screenshots/Damage.png "Damage")
 
-
+### Third Party Assets
 The packages in the list below were used in the project;
 * Pixel Adventure 1 by Pixel Frog (https://assetstore.unity.com/packages/2d/characters/pixel-adventure-1-155360)
 * Pixel Adventure 2 by Pixel Frog (https://assetstore.unity.com/packages/2d/characters/pixel-adventure-2-155418)
